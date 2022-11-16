@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheManager", "CacheManager\CacheManager.csproj", "{2B12910F-962E-4005-AE50-1111BD3CB7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B12910F-962E-4005-AE50-1111BD3CB7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B12910F-962E-4005-AE50-1111BD3CB7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B12910F-962E-4005-AE50-1111BD3CB7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B12910F-962E-4005-AE50-1111BD3CB7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1854B0-AF65-43C6-A0BC-A7DAF1F8A8DE}
+	EndGlobalSection
+EndGlobal
