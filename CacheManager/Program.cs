@@ -1,4 +1,5 @@
 ﻿//https://github.com/MichaCo/CacheManager
+//Bom para usar com Redis
 using CacheManager.Core;
 
 
